@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553574134561.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3752463885",
+    "id" : "DF1FD29F",
+    "lastKnownWriteTime" : 1554077120,
+    "last_content_update" : 1554077120096,
+    "path" : "~/R/Chapter5/challenge_five.R",
+    "project_path" : "challenge_five.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

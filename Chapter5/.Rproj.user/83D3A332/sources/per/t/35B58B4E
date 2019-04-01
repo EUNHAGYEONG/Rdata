@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553570726324.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3105792003",
+    "id" : "35B58B4E",
+    "lastKnownWriteTime" : 1553596853,
+    "last_content_update" : 1553596853616,
+    "path" : "~/R/Chapter5/three_five.R",
+    "project_path" : "three_five.R",
+    "properties" : {
+        "cursorPosition" : "50,16",
+        "scrollLine" : "31",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

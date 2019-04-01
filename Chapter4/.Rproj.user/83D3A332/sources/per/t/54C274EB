@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553005152972.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2302062259",
+    "id" : "54C274EB",
+    "lastKnownWriteTime" : 1553006228,
+    "last_content_update" : 1553006228807,
+    "path" : "~/R/Chapter4/csv_file1.R",
+    "project_path" : "csv_file1.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

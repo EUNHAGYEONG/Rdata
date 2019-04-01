@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552995726110.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "469035111",
+    "id" : "AFAF2922",
+    "lastKnownWriteTime" : 1553004520,
+    "last_content_update" : 1553004520774,
+    "path" : "~/R/Chapter4/exel_file.R",
+    "project_path" : "exel_file.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

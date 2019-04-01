@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553004526612.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1020247999",
+    "id" : "52AD82E",
+    "lastKnownWriteTime" : 1553004821,
+    "last_content_update" : 1553004821863,
+    "path" : "~/R/Chapter4/excel_file2.R",
+    "project_path" : "excel_file2.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

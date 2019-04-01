@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553567692774.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "488705707",
+    "id" : "47109995",
+    "lastKnownWriteTime" : 1553596853,
+    "last_content_update" : 1553596853462,
+    "path" : "~/R/Chapter5/one_five.R",
+    "project_path" : "one_five.R",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

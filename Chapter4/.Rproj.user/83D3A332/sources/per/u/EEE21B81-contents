@@ -1,0 +1,14 @@
+save(df_std, file = "df_std.rda")
+
+
+
+
+
+rm(df_std)
+
+df_std
+
+
+load("df_std.rda")
+
+df_std

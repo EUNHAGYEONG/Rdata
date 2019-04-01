@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553487053753.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1273547415",
+    "id" : "748A68AD",
+    "lastKnownWriteTime" : 1553492787,
+    "last_content_update" : 1553492787640,
+    "path" : "~/R/Chapter3/qplot1.R",
+    "project_path" : "qplot1.R",
+    "properties" : {
+        "cursorPosition" : "21,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

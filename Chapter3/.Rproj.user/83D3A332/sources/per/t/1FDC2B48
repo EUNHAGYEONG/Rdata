@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552964708681.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3182652176",
+    "id" : "1FDC2B48",
+    "lastKnownWriteTime" : 1553492797,
+    "last_content_update" : 1553492797072,
+    "path" : "~/R/Chapter3/one.R",
+    "project_path" : "one.R",
+    "properties" : {
+        "cursorPosition" : "56,18",
+        "scrollLine" : "24",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
